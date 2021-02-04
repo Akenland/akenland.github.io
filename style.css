@@ -1,14 +1,11 @@
 /* Basic styling */
 
 @import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
-
 html {
     font-family: "Bree Serif", serif;
     font-size: 16px;
-
     background: #493C2F url("assets/hero.png") no-repeat center fixed;
     background-size: cover;
-
     height: 100%;
 }
 
@@ -16,8 +13,6 @@ body {
     max-width: 1024px;
     margin: auto;
 }
-
-
 
 /* Reusable styles */
 
@@ -28,6 +23,7 @@ body {
 .columns {
     display: flex;
 }
+
 .columns div {
     flex: 25%;
     font-size: 14px;
@@ -57,16 +53,12 @@ img {
     color: #fa0;
 }
 
-
-
 /* Header navigation */
 
 header nav {
-    color: #fff;
     background-color: transparent;
     position: sticky;
     top: 0;
-
     z-index: 1;
 }
 
@@ -89,17 +81,19 @@ header nav a {
     color: #fff;
 }
 
-header nav #nav-menu ul {
+header nav ul ul {
     display: none;
+}
+
+header nav ul li:hover ul {
     position: absolute;
     margin-top: 12px;
     padding: 0;
-}
-header nav #nav-menu li:hover ul {
     display: block;
     background-color: #4E3C2D;
 }
-header nav #nav-menu ul li {
+
+header nav ul ul li {
     display: block;
 }
 
@@ -135,8 +129,6 @@ header nav #nav-links {
     margin: 0;
 }
 
-
-
 /* Server IP float box */
 
 #server-ip {
@@ -163,19 +155,22 @@ header nav #nav-links {
     margin: 8px 0;
 }
 
+#server-ip a {
+    color: #fff;
+    text-decoration: none;
+}
+
 #server-ip p {
     font-size: 14px;
     margin: 8px 0;
 }
-
-
 
 /* Main page content */
 
 article {
     background-color: #fff;
     padding: 0 24px;
-    font-size: 20px;
+    font-size: 18px;
     border: 4px #4E3C2D solid;
     margin: 24px 0;
 }
@@ -197,7 +192,7 @@ article p a {
 
 figcaption {
     color: #aaa;
-    font-size: 14px;
+    font-size: 12px;
     font-style: italic;
     padding-bottom: 12px;
 }
