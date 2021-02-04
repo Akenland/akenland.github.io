@@ -18,7 +18,15 @@ If you believe someone is violating the rules, please contact an Admin as soon a
 
 ---
 
-<div id="behavior-rules">
+## Contents
+* [Behavior Rules](#behavior)
+* [Peaceful Zone Rules](#peaceful-zone)
+* [PvP Zone Rules](#pvp-zone)
+* [Creative Mode Rules](#creative-mode)
+
+---
+
+<div id="behavior">
 # Behavior Rules
 The Behavior Rules apply to all servers, chats, and other services provided by Akenland, at all times.
 
@@ -69,13 +77,16 @@ Suspicious behavior, or attempts to interfere with the server, any players, or a
 
 ---
 
+## Gameplay Rules
 The world is divided into Peaceful Zones and PvP Zones. Each zone has different rules regarding gameplay. Please see the live map, or ask an Admin, if you are unsure which zone you are in.
 
 Failing to follow Zone Rules will never result in a server ban. Bans are only used against players who violate the Behavior Rules.
 
-With the exception of spawns and important lore locations, player actions are not blocked, but can be rolled back by Admins. As such, we do not protect individual player builds/chunks, nor use a land claim system.
+With the exception of spawns, warpstones, and other important locations, player actions are not blocked, but can be rolled back by Admins. As such, we do not protect individual player builds/chunks, nor use a land claim system.
 
-<div id="peaceful-zone-rules">
+---
+
+<div id="peaceful-zone">
 # Peaceful Zone Rules
 Peaceful Zones include the main continent (Akenland), consisting of Waramon and Eborin.
 
@@ -96,7 +107,9 @@ Do not build too close to other players. Your builds should not be touching anot
 Many smaller areas have their own specific laws, which may be posted on signs around the world, or at a town hall/city hall. Please be mindful of these laws. Ask an Admin if you are unsure.
 </div>
 
-<div id="pvp-zone-rules">
+---
+
+<div id="pvp-zone">
 # PvP Zone Rules
 PvP Zones include the majority of the oceans and all six outer continents - three in Sholkingham and three in Runnach.
 
@@ -131,4 +144,57 @@ You may not create long bridges of blocks to cross large gaps or water. You must
 
 ## Realm laws
 Individual realms may create and enforce their own laws in the PvP Zones, but the enforcement of these laws will be left up to the realm (and their allies). Admins will not enforce laws created by players/realms.
+</div>
+
+---
+
+<div id="creative-mode">
+# Creative Mode Rules
+These rules apply to all players who are using Creative Mode or other builder permissions (such as WorldEdit or VoxelSniper), regardless of whether they have been given temporary or long-term access to these abilities.
+
+## General rules
+The following is not allowed under any circumstances, when using Creative Mode or builder permissions:
+* Destroying any structures or terrain without explicit approval from an Admin
+* Spawning in items for other players, or leaving items in a place where they are accessible to other players
+* Spawning in items for survival play
+* Duplicating items, for any reason
+* Placing or breaking bedrock without explicit approval from an Admin
+* Participating in any form of PvP, griefing, or raiding
+* Participating in dungeons, quests, or any similar activity
+* Using Creative Mode or builder permissions to gain an unfair advantage, such as scouting out other realms, dungeons, or hidden areas
+* Placing or using TNT, fire, spawn eggs, or End portals
+* Spawning or fighting Ender Dragons or Withers
+* Using Creative Mode or builder permissions while in the Nether or End without explicit approval from an Admin
+
+## Avoid rare blocks
+When in Creative Mode, please avoid the use of the following blocks, due to their rarity:
+* Beacons
+* Iron, Gold, Diamond, and Emerald blocks (may be used in small numbers, but ask an admin to be sure)
+* Anvils
+* Enchanting tables
+* Brewing stands
+* Shulker boxes
+* Ender chests
+* Player heads
+* Dragon heads
+* Dragon eggs
+* Obsidian
+* Bedrock (always ask an admin before placing or breaking bedrock!)
+
+## Builds must be gameplay-friendly
+All builds and terraforming should be somewhat survival-friendly and believable.
+* Removing ores/natural terrain should be avoided as much as possible.
+* * Custom biomes should be enjoyable and practical to play in survival mode.
+* Use of locally-available materials is preferred. For example, a town in a taiga should use spruce wood, as opposed to other non-local woods.
+* * If you can think of a clever reason for non-local materials, that is great! For example, maybe your town is a trading partner with another town. Don't be afraid to come up with creative solutions!
+* If you want to make a dungeon, discuss it with the Admins. We can be more lenient with dungeons, but there are also certain other gameplay guidelines to follow.
+
+## Notices
+Admins may switch you to survival mode, or revoke/reduce builder permissions, if you fail to follow these rules.
+
+Annoying admins by constantly requesting access to creative or builder permissions may reduce your chance of getting access.
+
+Remember that this is a survival server, and you should be in survival mode when you are not building.
+
+Remember that creative mode and builder permissions are a privilege, and must be used responsibly.
 </div>

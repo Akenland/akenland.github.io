@@ -1,11 +1,15 @@
-#behavior-rules {
+#behavior h1, #behavior h2 {
     color: #555;
 }
 
-#peaceful-zone-rules {
+#peaceful-zone h1, #peaceful-zone h2 {
     color: #0a0;
 }
 
-#pvp-zone-rules {
+#pvp-zone h1, #pvp-zone h2 {
     color: #a00;
+}
+
+#creative-mode h1, #creative-mode h2 {
+    color: #0aa;
 }
