@@ -1,3 +1,4 @@
+# Akenland Official Rules
 Welcome to Akenland! We've put together these rules to ensure that everyone has fun and enjoys their time on the server. Please read and follow these rules as indicated. If you have any questions, please ask an Admin.
 
 ### Our Admin team
@@ -14,7 +15,7 @@ Our current admins include:
 If you believe someone is violating the rules, please contact an Admin as soon as possible, using one of the following methods:
 * Pinging or DMing an Admin on Discord
 * Using /msg admins <message…> in-game, when an Admin is online
-* Sending an email to admins@akenland.com
+* Sending an email to [admins@akenland.com](mailto:admins@akenland.com)
 
 ---
 
