@@ -18,7 +18,7 @@ If you believe someone is violating the rules, please contact an Admin as soon a
 
 ---
 
-<span id="behavior-rules">
+<div id="behavior-rules">
 # Behavior Rules
 The Behavior Rules apply to all servers, chats, and other services provided by Akenland, at all times.
 
@@ -65,7 +65,7 @@ The following are allowed:
 Utilizing glitches/exploits/loopholes in Minecraft, any of our plugins, or Discord, is not permitted. Please report these to Admins.
 
 Suspicious behavior, or attempts to interfere with the server, any players, or any Akenland service or website (including DoS attacks), will typically result in a permanent ban, at the discretion of Admins.
-</span>
+</div>
 
 ---
 
@@ -75,7 +75,7 @@ Failing to follow Zone Rules will never result in a server ban. Bans are only us
 
 With the exception of spawns and important lore locations, player actions are not blocked, but can be rolled back by Admins. As such, we do not protect individual player builds/chunks, nor use a land claim system.
 
-<span id="peaceful-zone-rules">
+<div id="peaceful-zone-rules">
 # Peaceful Zone Rules
 Peaceful Zones include the main continent (Akenland), consisting of Waramon and Eborin.
 
@@ -94,9 +94,9 @@ Do not build too close to other players. Your builds should not be touching anot
 
 ## Follow all posted town/city laws
 Many smaller areas have their own specific laws, which may be posted on signs around the world, or at a town hall/city hall. Please be mindful of these laws. Ask an Admin if you are unsure.
-</span>
+</div>
 
-<span id="pvp-zone-rules">
+<div id="pvp-zone-rules">
 # PvP Zone Rules
 PvP Zones include the majority of the oceans and all six outer continents - three in Sholkingham and three in Runnach.
 
@@ -131,4 +131,4 @@ You may not create long bridges of blocks to cross large gaps or water. You must
 
 ## Realm laws
 Individual realms may create and enforce their own laws in the PvP Zones, but the enforcement of these laws will be left up to the realm (and their allies). Admins will not enforce laws created by players/realms.
-</span>
+</div>
