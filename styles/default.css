@@ -1,0 +1,11 @@
+/* General styles */
+
+@import "style.css";
+/* Colors */
+
+@import "colors/minecraft.css";
+@import "colors/akenland.css";
+/* Components */
+
+@import "site-nav.css";
+@import "rules.css";

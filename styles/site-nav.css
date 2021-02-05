@@ -1,0 +1,63 @@
+/* Header navigation */
+
+/* Entire nav bar */
+
+header nav {
+    background-color: transparent;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+/* Individual left and right bars */
+
+header nav ul {
+    margin: 0;
+    padding: 12px 0;
+}
+
+/* Items in nav bar */
+
+header nav li {
+    display: inline;
+    padding: 12px;
+}
+
+header nav li:hover {
+    background-color: #555;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Dropdown nav menus - hidden state */
+
+header nav ul ul {
+    display: none;
+}
+
+/* Dropdown nav menus - visible state */
+
+header nav ul li:hover ul {
+    position: absolute;
+    margin-top: 12px;
+    padding: 0;
+    display: block;
+    background-color: #4E3C2D;
+}
+
+header nav ul ul li {
+    display: block;
+}
+
+/* Float left and right nav bars */
+
+header nav #nav-menu {
+    float: left;
+}
+
+header nav #nav-links {
+    float: right;
+}
