@@ -2,14 +2,14 @@
 Welcome to Akenland! We've put together these rules to ensure that everyone has fun and enjoys their time on the server. Please read and follow these rules as indicated. If you have any questions, please ask an Admin.
 
 ### Our Admin team
-Akenland Admins are indicated in-game, and on the Live Map, by a + in front of their names. On Discord, online Admins are listed at the top of the member list, and also have the Server Admins role, when clicking on their names.
+Akenland Admins are indicated in-game, and on the Live Map, by a purple + in front of their names.
 
 Our current admins include:
-* Kade (in-game username: Kade_N_ - Discord tag: Kyle#1805) - Lead Admin
-* Galvin (in-game username: GalvinNerth - Discord tag: GalvinNerth#0309)
+* Kade (in-game username: Kade_N_ - Discord tag: Kade#1805) - Lead Admin
+* Galvin (in-game username: GalvinNerth - Discord tag: Galvin Greene#0309)
 * Mossy (in-game username: Mosflow - Discord tag: Mosflow#2813)
 * Flower (in-game username: FlowerFox - Discord tag: FlowerFox#3901)
-* Mads (in-game username: magfaerie - Discord tag: Mads#4983)
+* Mads (in-game username: magfaerie - Discord tag: marz#4983)
 
 ### Reporting violations of rules
 If you believe someone is violating the rules, please contact an Admin as soon as possible, using one of the following methods:
@@ -118,20 +118,18 @@ PvP Zones include the majority of the oceans and all six outer continents - thre
 Stealing/raiding, PvP combat, and attacking other players and pets, is all allowed in PvP Zones. Please be aware of this when entering this zone.
 
 ## No griefing (with some exceptions)
-You may damage, but not destroy builds in a PvP Zone.
+You may damage, but not destroy builds in a PvP Zone. As a general rule, you may only cause damage in order to gain a strategic advantage.
 
 You may:
 * Break through walls, or into buildings
-* Start fires
-* Use TNT
 * Steal/raid
-* Cause damage in order to gain a strategic advantage
+* Use reasonable amounts of TNT and fire, in line with the conditions below
 
 You may not:
-* Any sort of "destruction for the sake of destruction"
 * Tear down, or significantly damage an entire build or town
 * Destroy large amounts of terrain
 * Destroy items/chests without stealing them
+* Any sort of "destruction for the sake of destruction"
 
 Please ask an Admin to be sure, or visit your Farthing Spawn. This rule is enforced on a case-by-case basis, and decisions will be made at your Farthing Spawn.
 
@@ -168,7 +166,7 @@ The following is not allowed under any circumstances, when using Creative Mode o
 * Using Creative Mode or builder permissions while in the Nether or End without explicit approval from an Admin
 
 ## Avoid rare blocks
-When in Creative Mode, please avoid the use of the following blocks, due to their rarity:
+When in Creative Mode, please minimize the use of the following blocks, due to their rarity:
 * Beacons
 * Iron, Gold, Diamond, and Emerald blocks (may be used in small numbers, but ask an admin to be sure)
 * Anvils
