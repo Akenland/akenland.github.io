@@ -8,7 +8,7 @@ defaults:
       layout: "default"
       discord_url: "https://discord.gg/QZp4AWz"
       map_url: "https://map.akenland.com"
-      mc_version: "Minecraft Java Edition 1.16.5"
+      mc_version: "Minecraft Java Edition 1.17.1"
   - scope:
       path: "*.md"
     values:
