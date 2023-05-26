@@ -6,7 +6,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-      discord_url: "https://discord.gg/QZp4AWz"
+      discord_url: "https://discord.akenland.com"
       map_url: "https://map.akenland.com"
       mc_version: "Minecraft Java Edition 1.18.2"
   - scope:
