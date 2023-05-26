@@ -9,7 +9,7 @@ Our current admins include:
 * Galvin (in-game username: GalvinNerth - Discord tag: Galvin Greene#0309)
 * Mossy (in-game username: Mosflow - Discord tag: Mosflow#2813)
 * Flower (in-game username: FlowerFox - Discord tag: FlowerFox#3901)
-* Mads (in-game username: magfaerie - Discord tag: marz#4983)
+* Mads (in-game username: magfaerie - Discord tag: maefaerie#4983)
 
 ### Reporting violations of rules
 If you believe someone is violating the rules, please contact an Admin as soon as possible, using one of the following methods:
@@ -66,8 +66,9 @@ The following are not allowed:
 * Anything else that gives an unfair advantage
 
 The following are allowed:
-* OptiFine (including Shaders) and Better Foliage
+* Graphics/performance mods such as OptiFine, Shaders, and Better Foliage
 * Resource Packs
+* Mods that disable telemetry and/or chat reporting
 * Minimaps (assuming they do not reveal anything, as stated above)
 * Mods that only function in single-player or compatible servers (such as most Forge mods)
 
@@ -78,23 +79,16 @@ Suspicious behavior, or attempts to interfere with the server, any players, or a
 
 ---
 
-## Gameplay Rules
-The world is divided into Peaceful Zones and PvP Zones. Each zone has different rules regarding gameplay. Please see the live map, or ask an Admin, if you are unsure which zone you are in.
-
-Failing to follow Zone Rules will never result in a server ban. Bans are only used against players who violate the Behavior Rules.
-
-With the exception of spawns, warpstones, and other important locations, player actions are not blocked, but can be rolled back by Admins. As such, we do not protect individual player builds/chunks, nor use a land claim system.
-
----
-
 <div id="peaceful-zone">
 # Peaceful Zone Rules
-Peaceful Zones include the main continent (Akenland), consisting of Waramon and Eborin.
+The following rules apply in the main continent (Akenland), consisting of Waramon and Eborin.
 
 ## No griefing or stealing
 You may not damage, steal, raid, break, destroy, or otherwise do anything harmful to another player's builds, chests/containers, items, or pets.
 
 Items in a Peaceful Zone may not be stolen - even if they were originally stolen from a PvP Zone.
+  
+We do not protect individual player builds/chunks, nor use a land claim system. Instead, Admins will revert the actions of players who violate this rule.
 
 ## Do not hurt players or pets
 PvP combat is not allowed in this zone. Do not attack other players or pets.
@@ -112,17 +106,17 @@ Many smaller areas have their own specific laws, which may be posted on signs ar
 
 <div id="pvp-zone">
 # PvP Zone Rules
-PvP Zones include the majority of the oceans and all six outer continents - three in Sholkingham and three in Runnach.
+The following rules apply in the six outer continents - three in Sholkingham and three in Runnach - and their surrounding oceans.
 
 ## Stealing/raiding and PvP combat is allowed
 Stealing/raiding, PvP combat, and attacking other players and pets, is all allowed in PvP Zones. Please be aware of this when entering this zone.
 
-## No griefing (with some exceptions)
-You may damage, but not destroy builds in a PvP Zone. As a general rule, you may only cause damage in order to gain a strategic advantage.
+## Strategic griefing only
+You may damage, but not outright destroy builds in a PvP Zone. As a general rule, you may only cause damage in order to gain a strategic advantage.
 
 You may:
 * Break through walls, or into buildings
-* Steal/raid
+* Steal valuable blocks
 * Use reasonable amounts of TNT and fire, in line with the conditions below
 
 You may not:
@@ -131,13 +125,13 @@ You may not:
 * Destroy items/chests without stealing them
 * Any sort of "destruction for the sake of destruction"
 
-Please ask an Admin to be sure, or visit your Farthing Spawn. This rule is enforced on a case-by-case basis, and decisions will be made at your Farthing Spawn.
+Please ask an Admin to be sure, or visit your Farthing Hub. This rule is enforced on a case-by-case basis, and decisions will be made at your Farthing Hub.
 
 ### Exception: Wars
-Realms in PvP Zones may agree to a War. This may be done at a Farthing Spawn, with an Admin present. A War grants an exception to this rule, allowing the included realms to grief each other without consequences. Any realm that is not involved in the War may not be griefed.
+Realms in PvP Zones may agree to a War. This may be done at a Farthing Hub, with an Admin present. A War grants an exception to this rule, allowing the included realms to grief each other without consequences. Any realm that is not involved in the War may not be griefed.
 
-## No pillaring/bridges
-You may not create pillars of blocks (n00b t00bs) to climb over walls and other obstacles. You must find another way over walls, dig underneath, or fight through the entrance. However, scaffold blocks are allowed.
+## No pillaring/bridges to gain PvP advantages
+You may not create pillars of blocks (n00b t00bs) to climb over walls and other obstacles. You must find another way over walls, dig underneath, or fight through the entrance. Scaffolding can also be used instead.
 
 You may not create long bridges of blocks to cross large gaps or water. You must find another way across.
 
@@ -162,11 +156,11 @@ The following is not allowed under any circumstances, when using Creative Mode o
 * Participating in dungeons, quests, or any similar activity
 * Using Creative Mode or builder permissions to gain an unfair advantage, such as scouting out other realms, dungeons, or hidden areas
 * Placing or using TNT, fire, spawn eggs, or End portals
-* Spawning or fighting Ender Dragons or Withers
+* Spawning or fighting bosses such as Ender Dragons and Withers
 * Using Creative Mode or builder permissions while in the Nether or End without explicit approval from an Admin
 
 ## Avoid rare blocks
-When in Creative Mode, please minimize the use of the following blocks, due to their rarity:
+Please do not overuse the following blocks, due to their rarity:
 * Beacons
 * Iron, Gold, Diamond, and Emerald blocks (may be used in small numbers, but ask an admin to be sure)
 * Anvils
