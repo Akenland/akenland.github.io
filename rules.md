@@ -2,7 +2,7 @@
 Welcome to Akenland! We've put together these rules to ensure that everyone has fun and enjoys their time on the server. Please read and follow these rules as indicated. If you have any questions, please ask an Admin.
 
 ### Our Admin team
-Akenland Admins are indicated in-game, and on the Live Map, by a purple + in front of their names.
+Akenland Admins are indicated in-game, and on the Live Map, by a purple + in front of their names. On Discord, Admins have the "Aunix" role.
 
 Our current admins include:
 * Kade (in-game username: Kade_N_ - Discord: aceofkade) - Lead Admin
@@ -32,36 +32,50 @@ If you believe someone is violating the rules, please contact an Admin as soon a
 # Behavior Rules
 The Behavior Rules apply to all servers, chats, and other services provided by Akenland, at all times.
 
-## Be respectful to others
-You must be respectful to everyone on Akenland. We will not tolerate harassment (of any kind), posting personal information about others (doxing), insults, excessive gloating, or other similar actions.
+Players who break these rules will receive, at the discretion of Admins:
+- Warning and/or temporary mute for first offense
+- Temporary ban for second offense
+- Permanent ban for third offense
 
-We are proud to have a diverse community. We have members worldwide, even crossing language boundaries, our members span a wide age range, and we pride ourselves on being an LGBTA+ friendly community. Please be respectful of everyone.
+We try to be as lenient as possible without hurting the experience for other players. However, we will not tolerate players who deliberately take advantage of this, or otherwise try to skirt the rules.
+
+## Be respectful to others
+You must be respectful to everyone on Akenland. **We will not tolerate harassment (of any kind), posting personal information about others (doxing), insults, excessive gloating, or other similar actions.**
+
+We are proud to have a diverse community. We have members worldwide, even crossing language boundaries, our members span a wide age range, and we pride ourselves on being an LGBTA+ friendly community. **We will not tolerate hate speech, slurs, explicit content, disrespectful or insensitive jokes, or other content that is disrespectful to particular groups.** Please be respectful of everyone.
+
+This rule applies not only to chat messages, but any other area you may enter text. This includes, but is not limited to, signs, books, item names, and mob names.
 
 ### PvP
-Sometimes, PvP interactions can get heated. Remember, while PvP interactions may have drastic in-game consequences, it is just a game, and there are real people on the other side of it. Please do not take out your frustration by harassing or insulting others.
+Sometimes, PvP interactions can get heated. Remember, it is just a game, and there are real people on the other side of it. Please do not take out your frustration by harassing or insulting others.
 
 All players are welcome to build and play in Peaceful Zones, where you don't have to deal with PvP whatsoever. You may use this zone to cool down after a heated PvP interaction, or to take a break from PvP.
 
 ### Appropriate conversation topics
-We have a diverse, yet tight-knit community. Often, our members are comfortable to discuss deeply personal topics, which some may find discomforting. This is generally accepted in our chats, however, if you are uncomfortable with a particular conversation, please tell an Admin. We want everyone to feel safe and welcome in Akenland.
+We have a diverse, yet tight-knit community, and our chats reflect this. However, if you are uncomfortable with a particular conversation, please tell an Admin. We want everyone to feel safe and welcome in Akenland.
+
+Likewise, if an Admin tells you to drop a particular conversation topic, please do so immediately.
 
 ## No spamming or advertising
 Chat spam, especially inappropriate content, is not allowed. Messages may be removed by Admins. Spam is a Stupid, Pointless, Annoying Message.
 
-Advertising other services, Minecraft servers, Discord servers, or products, without permission from Admins, is not allowed.
+You may not advertise other services, Minecraft servers, Discord servers, or products, without permission from Admins.
 
-## Listen to Server Admins
-Server Admins keep the server running smoothly and without problems. You must obey the instructions of an Admin.
+## Respect actions of Server Admins
+Server Admins keep the server running smoothly and without problems. You must follow the instructions of an Admin. Please do not harass Admins over their decisions.
 
-Rules are enforced at the discretion of Admins. You may contact Admins via Discord or email (admins@akenland.com), to appeal an Admin's decision. Harassing players or Admins, attempting to bypass restrictions, using alternate accounts, or otherwise attempting to skirt the rules, will not be tolerated.
+To keep our server safe for everyone, Admins may ask you to drop a particular topic or stop doing something, even if it's not explicitly listed in the rules.
+
+### Do not attempt to deceive Admins
+Attempting to bypass restrictions or punishments is strictly forbidden. If you would like to appeal an Admin's decision, contact us via Discord or email (admins@akenland.com).
+
+Using alternate accounts will be seen as an attempt to deceive Admins and make our job more difficult, and will be handled accordingly.
 
 ## No cheating
 Using hacks, mods, or exploits to gain an unfair advantage is not permitted.
 
 The following are not allowed:
-* X-ray
-* Force Op
-* Anything that lets you see the location of other players, mobs, chests, ores, or other blocks/items
+* X-ray, or anything that lets you see the location of other players, mobs, chests, ores, or other blocks/items
 * Fly/movement mods/wall hacks
 * Anything else that gives an unfair advantage
 
@@ -154,7 +168,7 @@ We use an automated monitoring system to detect and warn players who attempt to 
 ## Realm laws
 Individual realms may create and enforce their own laws in the PvP Zones, but the enforcement of these laws will be left up to the realm (and their allies). Admins will not enforce laws created by players/realms.
 
-We describe our style of PvP as "political PvP" due to the focus on diplomacy and relationships between realms and their players. This means that while admins won't enforce laws created by realms, breaking such a law will typically result in retaliation. If you're going to try anything, be prepared to face the consequences, and remember that teamwork is the strongest weapon.
+We describe our style of PvP as "political PvP" due to the focus on diplomacy and relationships between realms and their players. This means that while Admins won't enforce laws created by realms, breaking such a law will typically result in retaliation. If you're going to try anything, be prepared to face the consequences, and remember that teamwork is the strongest weapon.
 </div>
 
 ---
