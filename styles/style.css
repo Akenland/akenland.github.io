@@ -4,7 +4,7 @@
 html {
     font-family: "Bree Serif", serif;
     font-size: 16px;
-    background: #493C2F url("/assets/hero.png") no-repeat center fixed;
+    background: var(--revival-spruce) url("/assets/hero.png") no-repeat center fixed;
     background-size: cover;
     height: 100%;
 }
@@ -41,22 +41,26 @@ img {
 
 #site-header {
     padding-top: 48px;
-    padding-bottom: calc(100vh - 380px);
+    padding-bottom: 24px;
     text-align: center;
     position: sticky;
     top: 0;
 }
 
+#site-header.reveal-background {
+    padding-bottom: calc(100vh - 380px);
+}
+
 #site-title {
     color: #aaa;
     font-size: 72px;
-    -webkit-text-stroke: 2px #3A2B26;
-    text-shadow: #3A2B26 0 0 8px;
+    -webkit-text-stroke: 2px var(--revival-dark-oak);
+    text-shadow: var(--revival-dark-oak) 0 0 8px;
     margin: 0;
 }
 
 #site-tagline {
-    color: #3A2B26;
+    color: var(--revival-dark-oak);
     font-size: 24px;
     margin: 0;
 }
@@ -65,7 +69,7 @@ img {
 
 #server-ip {
     color: #aaa;
-    background-color: #3A2B26;
+    background-color: var(--revival-dark-oak);
     padding: 12px;
     z-index: 10;
 }
@@ -97,13 +101,23 @@ img {
     margin: 8px 0;
 }
 
+/* Back to homepage button */
+
+#back-link {
+    color: #fff;
+    background-color: var(--revival-oak);
+    padding: 8px 12px;
+    position: relative;
+    top: 16px;
+}
+
 /* Main page content */
 
 article {
     background-color: #fff;
     padding: 0 24px;
     font-size: 18px;
-    border: 4px #4E3C2D solid;
+    border: 4px var(--revival-oak) solid;
     margin: 24px 0;
 }
 
