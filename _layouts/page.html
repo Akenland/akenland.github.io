@@ -1,7 +1,30 @@
----
-layout: default
----
-<a href="/">&#8592; Back to homepage</a>
-<article>
-    {{ content }}
-</article>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Akenland</title>
+    <link rel="stylesheet" href="styles/default.css">
+</head>
+
+<body>
+
+    <header>
+        {% include site-nav.html %}
+
+        <div id="site-header">
+            <h1 id="site-title">Akenland</h1>
+            <p id="site-tagline">RPG-Inspired Minecraft Survival Server</p>
+        </div>
+    </header>
+
+    {% include server-ip-box.html %}
+
+    <a id="back-link" href="/">&#8592; Back to homepage</a>
+    
+    <article>
+        {{ content }}
+    </article>
+
+</body>
+
+</html>
